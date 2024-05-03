@@ -35,7 +35,9 @@ body{
 .escola-titulo{
     padding: 24px 0;
 }
-.escola-imagem{
+.estudante-imagem{
     width: 120px 0;
 }
-
+.estudante-icone{
+width: 24px;
+}
